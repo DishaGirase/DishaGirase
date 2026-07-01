@@ -116,20 +116,27 @@ Machine Learning Engineer • AI Developer • Building Intelligent Systems for 
 
 ### Machine Learning
 
-<p>
+<p align="left">
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 
-</p>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="45" alt="Scikit-Learn"/>
 
-- Scikit-Learn
-- XGBoost
-- Random Forest
-- Regression
-- Classification
-- Clustering
-- Feature Engineering
-- SMOTE
+<img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" height="45" alt="XGBoost"/>
+
+<img src="https://img.shields.io/badge/Random%20Forest-228B22?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Regression-007ACC?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Classification-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Clustering-8E44AD?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Feature%20Engineering-00B894?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SMOTE-E91E63?style=for-the-badge"/>
+
+</p>
 
 ### Data
 
