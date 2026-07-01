@@ -1,94 +1,299 @@
-<div align="center">
+<h1 align="center">
+Hi 👋, I'm Disha Girase
+</h1>
 
-# Hi, I'm Disha Girase 👋 <sub>(she/her)</sub>
+<h3 align="center">
+Machine Learning Engineer • AI Developer • Building Intelligent Systems for Real-World Problems
+</h3>
 
-### Aspiring Data Scientist · Machine Learning & AI Enthusiast
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Machine+Learning+Engineer;AI+Developer;Python+%7C+SQL+%7C+Scikit-Learn;LLMs+%7C+AI+Agents+%7C+MLOps;Building+Production-Ready+ML+Systems;Always+Learning+🚀" />
+</p>
 
-<!-- EDIT: swap this tagline for your own one-liner if you like -->
-*Turning data into insight, and insight into impact — one model at a time.*
+<p align="center">
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
----
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge"/>
 
-## About me
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge"/>
 
-I'm an early-career **Data Science / ML / AI** developer who genuinely lights up when a messy dataset turns into a story worth telling. I started out curious about *why* things happen behind the numbers, and that curiosity grew into a love for machine learning, clean visualizations, and building things that actually help people. I'm still early on the journey — learning something new almost every day — but I'm all in.
-
-- 🔭 Building small, end-to-end **data projects** — from raw data → insight → simple model.
-- 🌱 Learning more about **machine learning, deep learning, and MLOps**.
-- 💬 Ask me about **Python, data analysis, and all things AI**.
-- 📫 Reach me at **dishagirase2806@gmail.com** <!-- EDIT: optional — remove if you'd rather not list an email -->
-
-<!-- EDIT: confirm your current role or school below -->
-> Currently studying / working on **[your program or role here]** <!-- EDIT: e.g. "B.Tech CSE @ Your University" or "Aspiring Data Analyst, self-taught & building daily." -->
+</p>
 
 ---
 
-## 🧰 Toolbox
+# 👩‍💻 About Me
 
-<!-- EDIT: trim or extend rows to match what you actually use -->
+🎓 Final-year **B.Tech Computer Engineering (AI)** Student
 
-| Area | Tools |
-| --- | --- |
-| **Languages** | Python, SQL |
-| **Data wrangling** | pandas, NumPy |
-| **Machine learning** | scikit-learn, TensorFlow / PyTorch |
-| **Visualization** | matplotlib, seaborn |
-| **Notebooks & workflow** | Jupyter, Git & GitHub |
+🏫 Institute of Advanced Research, Gandhinagar
 
-<div align="center">
+📈 GPA **9.22 / 10**
 
-<!-- EDIT: add/remove badges to match your real toolkit -->
+📍 Ahmedabad, Gujarat, India 🇮🇳
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+💡 I enjoy building Machine Learning systems that solve real business problems through intelligent data-driven solutions.
 
-</div>
+🚀 Passionate about Machine Learning, Generative AI, AI Agents, and Production ML Systems.
 
 ---
 
-## 📌 Featured Projects
+# 🚀 Currently Working On
 
-<!-- EDIT: replace these with links to your real repos -->
-- 🔬 **[Project One](https://github.com/DishaGirase)** — short description of what it does and the tools you used.
-- 📊 **[Project Two](https://github.com/DishaGirase)** — short description of what it does and the tools you used.
-- 🤖 **[Project Three](https://github.com/DishaGirase)** — short description of what it does and the tools you used.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DishaGirase&show_icons=true&hide_border=true&count_private=true" alt="Disha's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DishaGirase&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
+- 🤖 ResumiX — AI Resume Intelligence Platform
+- 🧠 Large Language Models (LLMs)
+- ⚡ AI Agents
+- 🔍 RAG Pipelines
+- ☁️ MLOps
+- 🐳 Docker
+- 🚀 FastAPI
+- 📊 ML System Design
 
 ---
 
-## 🤝 Let's Connect
+# 💼 Featured Projects
 
-<!-- EDIT: update these links to your actual profiles, or remove any you don't use -->
+## 💰 Revenue Leakage Intelligence
 
-<div align="center">
+- Built an analytics pipeline using **PostgreSQL + Power BI**
+- Identified the **20% of projects causing nearly 80% of total revenue leakage**
+- Created executive dashboards for business insights
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishagirase2806@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DishaGirase)
+**Tech Stack**
 
-<br>
+`Python` `SQL` `PostgreSQL` `Power BI`
 
-<em>Thanks for stopping by — feel free to explore my repos and say hi! ✨</em>
+---
 
-</div>
+## 🛡 Fraud Detection System
+
+- Processed **71K+ financial transactions**
+- Solved **0.25% fraud imbalance**
+- Used **SMOTE + Random Forest**
+- Achieved **F1 Score: 0.91**
+
+**Tech Stack**
+
+`Python` `Scikit-Learn` `SMOTE` `Random Forest`
+
+---
+
+## 🌍 Real-Time AQI Prediction
+
+- Integrated OpenWeather API
+- Compared multiple regression models
+- Built a live dashboard using Streamlit
+
+**Tech Stack**
+
+`Python`
+`Streamlit`
+`Machine Learning`
+
+---
+
+## 👥 Customer Segmentation
+
+- Applied K-Means clustering
+- Generated actionable customer segments
+- Improved marketing insights
+
+**Tech Stack**
+
+`Python`
+`Pandas`
+`Scikit-Learn`
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,r,mysql"/>
+</p>
+
+### Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+- Scikit-Learn
+- XGBoost
+- Random Forest
+- Regression
+- Classification
+- Clustering
+- Feature Engineering
+- SMOTE
+
+### Data
+
+- Pandas
+- NumPy
+- PostgreSQL
+- Power BI
+- Matplotlib
+- Seaborn
+
+### Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- Large Language Models
+- AI Agents
+- LangChain
+- MCP
+- RAG
+- Docker
+- Kubernetes
+- FastAPI
+- MLOps
+
+---
+
+# 🏆 Achievements
+
+🥈 PUPTANK 2026 — 2nd Place
+
+🏅 Smart India Hackathon Finalist (2023 & 2024)
+
+🧬 Biotechnology Hackathon Semi-Finalist
+
+🎯 Building in Public with 1.4K+ AI Community Followers
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📅 GitHub Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/YOUR_GITHUB_USERNAME"/>
+
+</p>
+
+---
+
+# 🌟 2026 Goals
+
+- [ ] Complete ResumiX
+- [ ] Build 25+ Machine Learning Projects
+- [ ] Contribute to Open Source
+- [ ] Learn Production MLOps
+- [ ] Build AI Agents
+- [ ] Deploy End-to-End ML Systems
+- [ ] Publish Technical Blogs
+- [ ] Reach 2,500 GitHub Contributions
+- [ ] Secure an ML Internship
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="mailto:dishagirase2806@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</p>
+
+<p align="center">
+
+📧 **Email:** dishagirase2806@gmail.com
+
+💼 **LinkedIn:** YOUR_LINKEDIN_URL
+
+🌐 **Portfolio:** YOUR_PORTFOLIO_URL
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+
+</p>
