@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">👨‍💻 Professional Summary</h2>
+<h2 align="center">Professional Summary</h2>
 
 <p align="center">
 I’m a final-year B.Tech Computer Engineering (AI) student (GPA: <b>9.33/10</b>), currently working as an <b>AI/ML Engineering Intern</b>.<br><br>
@@ -28,19 +28,19 @@ I specialize in the intersection of Artificial Intelligence and Backend Engineer
 
 ---
 
-<h2 align="center">🚀 Current Focus: Architecting Production-Grade AI Systems</h2>
+<h2 align="center">Current Focus: Architecting Production-Grade AI Systems</h2>
 <p align="center">Currently focused on building highly scalable backend architectures and fault-tolerant machine learning pipelines. My daily engineering work involves:</p>
 
 <br>
 
-- 🧠 **Learning-to-Rank & Applied ML:** Engineering and training pairwise ranking models (`XGBRanker`, `LightGBM Lambdarank`) to optimize information retrieval and allocation logic. Built self-supervised continuous retraining loops connecting directly to PostgreSQL datasets, achieving significant NDCG@1 metric improvements (0.72 to 0.89) over legacy heuristic models.
-- 🤖 **Fault-Tolerant LLM Orchestration:** Architecting highly resilient data extraction pipelines using multi-model fallback systems (Groq, Llama-3). Implemented advanced prompt engineering to enforce strict JSON schemas, alongside complex API key-rotation and pacing logic to handle aggressive rate limits and gateway timeouts in high-throughput environments.
-- 🔎 **Deterministic NLP & Semantic Search:** Developing zero-hallucination skill-matching engines by combining dynamic regex boundary parsing, `spaCy` entity recognition, and text normalization. Integrated `pgvector` for pre-filtered semantic retrieval and cross-dimensional vector search across complex knowledge graphs.
-- ⚙️ **Backend Architecture & MLOps:** Building event-driven REST APIs using `FastAPI`, `Pydantic`, and `SQLAlchemy`. Implemented MD5-hash caching mechanisms to drastically reduce redundant LLM API calls and latency. Designed robust database schemas (Alembic) to track ML training runs, model drift, and recommendation feedback loops.
+- **Learning-to-Rank & Applied ML:** Engineering and training pairwise ranking models (`XGBRanker`, `LightGBM Lambdarank`) to optimize information retrieval and allocation logic. Built self-supervised continuous retraining loops connecting directly to PostgreSQL datasets, achieving significant NDCG@1 metric improvements (0.72 to 0.89) over legacy heuristic models.
+- **Fault-Tolerant LLM Orchestration:** Architecting highly resilient data extraction pipelines using multi-model fallback systems (Groq, Llama-3). Implemented advanced prompt engineering to enforce strict JSON schemas, alongside complex API key-rotation and pacing logic to handle aggressive rate limits and gateway timeouts in high-throughput environments.
+- **Deterministic NLP & Semantic Search:** Developing zero-hallucination skill-matching engines by combining dynamic regex boundary parsing, `spaCy` entity recognition, and text normalization. Integrated `pgvector` for pre-filtered semantic retrieval and cross-dimensional vector search across complex knowledge graphs.
+- **Backend Architecture & MLOps:** Building event-driven REST APIs using `FastAPI`, `Pydantic`, and `SQLAlchemy`. Implemented MD5-hash caching mechanisms to drastically reduce redundant LLM API calls and latency. Designed robust database schemas (Alembic) to track ML training runs, model drift, and recommendation feedback loops.
 
 ---
 
-<h2 align="center">🛠️ Technical Arsenal</h2>
+<h2 align="center">Technical Arsenal</h2>
 
 <p align="center">
   <b>AI & Machine Learning</b><br>
@@ -53,27 +53,27 @@ I specialize in the intersection of Artificial Intelligence and Backend Engineer
 
 ---
 
-<h2 align="center">📌 Highlighted Architecture & Projects</h2>
+<h2 align="center">Highlighted Architecture & Projects</h2>
 
-### 🔹 Revenue Leakage Intelligence
+### Revenue Leakage Intelligence
 A data-driven analytics platform focused on identifying patterns in IT revenue leakage and generating insights to support business decision-making.
 - **Tech Stack:** Python • PostgreSQL • Power BI • Data Analysis
 
-### 🔹 Fraud Detection System
+### Fraud Detection System
 A Machine Learning system for identifying fraudulent financial transactions using techniques designed for highly imbalanced datasets.
 - **Tech Stack:** Python • Scikit-learn • Random Forest • SMOTE • Feature Engineering
 
-### 🔹 Real-Time AQI Prediction
+### Real-Time AQI Prediction
 A Machine Learning application for predicting Air Quality Index through an interactive interface.
 - **Tech Stack:** Python • Machine Learning • Streamlit
 
-### 🔹 Customer Segmentation
+### Customer Segmentation
 A clustering-based analysis project using customer data to identify meaningful behavioral segments and generate actionable business insights.
 - **Tech Stack:** Python • Pandas • Scikit-learn • K-Means • Data Visualization
 
 ---
 
-<h2 align="center">🎓 Education & 🏆 Honors</h2>
+<h2 align="center">Education & Honors</h2>
 
 <table align="center">
   <tr>
@@ -83,8 +83,8 @@ A clustering-based analysis project using customer data to identify meaningful b
       <i>GPA: 9.33/10</i>
     </td>
     <td align="center" width="50%">
-      🥈 <b>2nd Place:</b> PUPTANK 2026 (Live AI Pitch)<br>
-      🏆 <b>Participant:</b> Smart India Hackathon (2023, 2024)
+      <b>2nd Place:</b> PUPTANK 2026 (Live AI Pitch)<br>
+      <b>Participant:</b> Smart India Hackathon (2023, 2024)
     </td>
   </tr>
 </table>
