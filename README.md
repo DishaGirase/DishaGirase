@@ -1,19 +1,19 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Disha%20Girase&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineering%20Intern%20|%20Applied%20Machine%20Learning%20|%20NLP&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=250&section=header&text=Disha%20Girase&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineering%20Intern%20|%20Applied%20Machine%20Learning%20|%20NLP&descAlignY=55&descAlign=50" />
 </div>
 
 <p align="center">
   <a href="https://github.com/DishaGirase">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Building+Intelligent+Search+%26+Ranking+Systems;Architecting+Fault-Tolerant+LLM+Pipelines;Bridging+AI+Models+and+Backend+Architecture;AI%2FML+Engineering+Intern"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=20&pause=1000&color=0066CC&center=true&vCenter=true&width=800&lines=Building+Intelligent+Search+%26+Ranking+Systems;Architecting+Fault-Tolerant+LLM+Pipelines;Bridging+AI+Models+and+Backend+Architecture;AI%2FML+Engineering+Intern"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/disha-girase/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0066CC?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn" />
   </a>
   <a href="mailto:dishagirase2806@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-0066CC?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Gmail" />
   </a>
 </p>
 
@@ -42,14 +42,26 @@ I specialize in the intersection of Artificial Intelligence and Backend Engineer
 
 <h2 align="center">Technical Arsenal</h2>
 
-<p align="center">
-  <b>AI & Machine Learning</b><br>
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch&theme=light" /><br><br>
-  <b>Backend & Databases</b><br>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker&theme=light" /><br><br>
-  <b>Infrastructure & Tools</b><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" />
-</p>
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>AI & Machine Learning</b><br><br>
+      <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch&theme=light" />
+    </td>
+    <td align="center" width="33%">
+      <b>Backend & Databases</b><br><br>
+      <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker&theme=light" />
+    </td>
+    <td align="center" width="33%">
+      <b>Infrastructure & Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=light" />
+    </td>
+  </tr>
+</table>
+
+<br>
 
 ---
 
@@ -90,5 +102,5 @@ A clustering-based analysis project using customer data to identify meaningful b
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=100&section=footer" />
 </p>
