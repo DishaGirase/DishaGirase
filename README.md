@@ -31,13 +31,13 @@ I specialize in the intersection of Artificial Intelligence and Backend Engineer
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Current Focus: AI On Hunt (AOH)</h3>
-      <p align="center">Engineering <b>ResumiX</b>, the core intelligence layer for an enterprise recruitment platform.</p>
+      <h3 align="center">🚀 Current Focus: Production-Grade AI</h3>
+      <p align="center">Building scalable backend architectures and fault-tolerant machine learning pipelines.</p>
       <ul>
-        <li>🧠 <b>Learning-to-Rank:</b> XGBoost pairwise models</li>
-        <li>🤖 <b>LLM Orchestration:</b> Multi-model fallbacks (Groq, Llama-3)</li>
-        <li>🔎 <b>Semantic Search:</b> Vector DBs (pgvector) & retrieval</li>
-        <li>⚙️ <b>Backend Architecture:</b> FastAPI & PostgreSQL pipelines</li>
+        <li>🧠 <b>Learning-to-Rank:</b> Training pairwise models (XGBoost)</li>
+        <li>🤖 <b>LLM Orchestration:</b> Engineering multi-model fallbacks</li>
+        <li>🔎 <b>Semantic Search:</b> Integrating vector DBs (pgvector)</li>
+        <li>⚙️ <b>Backend Architecture:</b> Building high-throughput APIs (FastAPI)</li>
       </ul>
     </td>
     <td width="50%" valign="top">
