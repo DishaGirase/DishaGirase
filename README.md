@@ -26,33 +26,30 @@ I’m a final-year B.Tech Computer Engineering (AI) student (GPA: <b>9.33/10</b>
 I specialize in the intersection of Artificial Intelligence and Backend Engineering. I don't just train models—I build the orchestration pipelines, vector architectures, and high-performance backends required to deploy them at enterprise scale.
 </p>
 
+---
+
+<h2 align="center">🚀 Current Focus: Architecting Production-Grade AI Systems</h2>
+<p align="center">Currently focused on building highly scalable backend architectures and fault-tolerant machine learning pipelines. My daily engineering work involves:</p>
+
 <br>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚀 Current Focus: Production-Grade AI</h3>
-      <p align="center">Building scalable backend architectures and fault-tolerant machine learning pipelines.</p>
-      <ul>
-        <li>🧠 <b>Learning-to-Rank:</b> Training pairwise models (XGBoost)</li>
-        <li>🤖 <b>LLM Orchestration:</b> Engineering multi-model fallbacks</li>
-        <li>🔎 <b>Semantic Search:</b> Integrating vector DBs (pgvector)</li>
-        <li>⚙️ <b>Backend Architecture:</b> Building high-throughput APIs (FastAPI)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🛠️ Technical Arsenal</h3>
-      <p align="center">
-        <b>AI & Machine Learning</b><br>
-        <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch&theme=dark" /><br><br>
-        <b>Backend & Databases</b><br>
-        <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker&theme=dark" /><br><br>
-        <b>Infrastructure & Tools</b><br>
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
-      </p>
-    </td>
-  </tr>
-</table>
+- 🧠 **Learning-to-Rank & Applied ML:** Engineering and training pairwise ranking models (`XGBRanker`, `LightGBM Lambdarank`) to optimize information retrieval and allocation logic. Built self-supervised continuous retraining loops connecting directly to PostgreSQL datasets, achieving significant NDCG@1 metric improvements (0.72 to 0.89) over legacy heuristic models.
+- 🤖 **Fault-Tolerant LLM Orchestration:** Architecting highly resilient data extraction pipelines using multi-model fallback systems (Groq, Llama-3). Implemented advanced prompt engineering to enforce strict JSON schemas, alongside complex API key-rotation and pacing logic to handle aggressive rate limits and gateway timeouts in high-throughput environments.
+- 🔎 **Deterministic NLP & Semantic Search:** Developing zero-hallucination skill-matching engines by combining dynamic regex boundary parsing, `spaCy` entity recognition, and text normalization. Integrated `pgvector` for pre-filtered semantic retrieval and cross-dimensional vector search across complex knowledge graphs.
+- ⚙️ **Backend Architecture & MLOps:** Building event-driven REST APIs using `FastAPI`, `Pydantic`, and `SQLAlchemy`. Implemented MD5-hash caching mechanisms to drastically reduce redundant LLM API calls and latency. Designed robust database schemas (Alembic) to track ML training runs, model drift, and recommendation feedback loops.
+
+---
+
+<h2 align="center">🛠️ Technical Arsenal</h2>
+
+<p align="center">
+  <b>AI & Machine Learning</b><br>
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,tensorflow,pytorch&theme=dark" /><br><br>
+  <b>Backend & Databases</b><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mysql,docker&theme=dark" /><br><br>
+  <b>Infrastructure & Tools</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" />
+</p>
 
 ---
 
